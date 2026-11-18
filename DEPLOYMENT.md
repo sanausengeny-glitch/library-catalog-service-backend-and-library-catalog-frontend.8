@@ -6,7 +6,7 @@ The app is prepared for Render (backend) and Vercel (frontend), with MongoDB Atl
 
 - Frontend: pending Vercel deployment
 - Backend: pending Render deployment
-- Repository: [library-catalog-service](https://github.com/sanausengeny-glitch/library-catalog-service-backend-and-library-catalog-frontend..git)
+- Repository: [library-catalog-service](https://github.com/sanausengeny-glitch/library-catalog-service-backend-and-library-catalog-frontend.8)
 
 The repository currently contains the frontend under `client/`; it is not a second local Git repository.
 
