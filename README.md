@@ -1,5 +1,7 @@
 # Library Catalog Service Backend and Frontend Admin Pages
 
+Repository name: `library-catalog-service-backend-and-library-catalog-frontend.8`
+
 This project provides a React catalog and an Express API for library books, borrowing, and space reservations.
 
 ## Setup
